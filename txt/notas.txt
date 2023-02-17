@@ -1,0 +1,5 @@
+procurar ícones para os botoes:
+novo ou salvar = ícone em forma de V verde, como um acerto ou check, ou um disquete
+alterar = ícone de um lápis sobre um caderno, usado em funções de editar, ou um ícone de atualizar
+limpar = uma vassoura
+deletar = uma lixeira ou um X vermelho
